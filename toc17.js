@@ -97,9 +97,11 @@ $(document).ready(() => {
     })
 });
 
+/*
 window.addEventListener("hashchange", (e) => {
     moveScroll();    
 });
+*/
 
 function moveScrollByClick(e) {
     let target = [...$('.entry-content h1, .entry-content h2:not(.screen_out), .entry-content h3')][parseInt(e.target.id.slice(4))];

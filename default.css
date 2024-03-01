@@ -748,6 +748,34 @@ hr {
 }
 
 /* Components */
+a.h {
+		margin-left: -1.5em;
+    display: inline-block;
+    margin-top: -1em;
+    margin-bottom: -1em;
+    width: 1.5em;
+    font-weight: normal;
+}
+a.h span{
+	display: inline-block;
+	width: 1.5em;
+}
+a.h:hover,
+.entry-content h1:hover a.h span:before,
+.entry-content h2:not(.screen_out):hover a.h span:before, 
+.entry-content h3:hover a.h span:before, 
+.entry-content .tt_article_useless_p_margin.contents_style h4:hover a.h span:before {
+	content: "#";
+	font-weight: normal;
+	color: #AAA;
+}
+@media screen and (max-width:670px) {
+	.aboutMe {
+		position: absolute;
+		left: initial !important;
+		top: 0;
+	}
+}
 .aboutMe {
 	position: absolute;
 	left: 20px;

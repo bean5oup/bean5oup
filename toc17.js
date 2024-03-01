@@ -8,7 +8,7 @@ $(document).ready(() => {
     let flag_open_h3 = false;
     let pos = 0; // To differentiate between items with the same name.
 
-    $('.entry-content h1, .entry-content h2:not(.screen_out), .entry-content h3').map((idx, e) => {
+    $('.entry-content h1, .entry-content h2:not(.screen_out), .entry-content h3, .entry-content .tt_article_useless_p_margin.contents_style h4').map((idx, e) => {
         if(e.tagName == 'H1') {
             if(flag_open_h3) {
                 html += '</ul>';
@@ -43,6 +43,15 @@ $(document).ready(() => {
                 </li>
             `;
         }
+
+        // add header hash
+        let aTag = document.createElement('a');
+        aTag.className = 'h';
+        aTag.href = `#${encodeURI(e.innerText)}`;
+        aTag.innerHTML = `
+            <span></span>
+        `;
+        e.prepend(aTag);
     });
 
     let toc = `

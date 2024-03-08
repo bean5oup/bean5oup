@@ -6,11 +6,33 @@
 
 Game Crash Project
 
-2021.9 - 2021.12
+2021.09 - 2021.12
 
-### BoB 10th (not a TOP 10, This does not mean that I am in the TOP 10. Please do not misunderstand.)
+### DIDC(Defense Integrated Data Center) CERT
 
-2021.7 - 2022.3
+Republic of Korea Army
+
+2022.07 ~ 2024.01
+
+## Career and Education
+
+### INHA University
+
+Department of Computer Engineering
+
+2020.03 -
+
+### BoB 10th (This does not mean that I am in the TOP 10. Please do not misunderstand. ^.^)
+
+2021.07 - 2022.03
+
+## CTF
+
+### 2023
+
+- CCE 사이버공격방어대회 / Final 공공부문 14th, 육전식당
+- Dreamhack X-mas CTF / 5th, 행bo관님안녕히계세yo
+
 <!--
 **bean5oup/bean5oup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

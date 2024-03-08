@@ -1,5 +1,3 @@
-# Info
-
 ## Career and Education
 
 ### INHA University

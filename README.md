@@ -1,4 +1,4 @@
-### Hi there 👋
+# Info
 
 <!--
 **bean5oup/bean5oup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

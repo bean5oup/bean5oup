@@ -1,4 +1,7 @@
 # Info
+ID 콩나물국밥
+Country Korea, Republic of
+## 
 
 <!--
 **bean5oup/bean5oup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

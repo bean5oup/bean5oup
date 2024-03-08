@@ -1,19 +1,5 @@
 # Info
 
-## Other Experiences
-
-### 언리얼 엔진 취약점 분석 (Unreal Engine 4)
-
-Game Crash Project
-
-2021.09 - 2021.12
-
-### DIDC(Defense Integrated Data Center) CERT
-
-Republic of Korea Army
-
-2022.07 ~ 2024.01
-
 ## Career and Education
 
 ### INHA University
@@ -27,6 +13,20 @@ Department of Computer Engineering
 This does not mean that I am in the TOP 10. Please do not misunderstand. :b
 
 2021.07 - 2022.03
+
+## Other Experiences
+
+### 언리얼 엔진 취약점 분석 (Unreal Engine 4)
+
+Game Crash Project
+
+2021.09 - 2021.12
+
+### DIDC(Defense Integrated Data Center) CERT
+
+Republic of Korea Army
+
+2022.07 ~ 2024.01
 
 ## CTF
 

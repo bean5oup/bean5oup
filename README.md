@@ -22,7 +22,9 @@ Department of Computer Engineering
 
 2020.03 -
 
-### BoB 10th (This does not mean that I am in the TOP 10. Please do not misunderstand. ^.^)
+### BoB 10th Vulnerability Analysis
+
+This does not mean that I am in the TOP 10. Please do not misunderstand. :b
 
 2021.07 - 2022.03
 

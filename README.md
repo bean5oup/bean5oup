@@ -5,6 +5,10 @@
 
 Country Korea, Republic of 
 
+## Other Experiences
+
+### BoB 10기
+2021.7 - 2022.3
 <!--
 **bean5oup/bean5oup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

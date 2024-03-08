@@ -1,9 +1,5 @@
 # Info
 
-### 콩나물국밥
-
-### Korea, Republic of 
-
 ## Other Experiences
 
 ### 언리얼 엔진 취약점 분석 (Unreal Engine 4)

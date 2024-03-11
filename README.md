@@ -14,9 +14,9 @@ This does not mean that I am in the TOP 10. Please do not misunderstand. :b
 
 ## Other Experiences
 
-### 언리얼 엔진 취약점 분석 (Unreal Engine 4)
+### Unreal Engine 4 Vulnerability Analysis
 
-Game Crash Project
+언리얼 엔진 취약점 분석 / Game Crash Project
 
 2021.09 - 2021.12
 

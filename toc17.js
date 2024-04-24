@@ -4,6 +4,9 @@ window.onload = () => {
 };
 
 $(document).ready(() => {
+    if(document.location.pathname == '/')
+        return;
+
     let html = ``;
     let flag_open_h3 = false;
     let pos = 0; // To differentiate between items with the same name.
@@ -64,8 +67,10 @@ $(document).ready(() => {
             </div>
         </div>
     `;
-    if(!!html)
+    if(!!html) {
         $('.toc_container').prepend(toc);
+        $('.toc_container').prepend('<div class="toc_padding"></div>');
+    }
     //$('#content').prepend(toc);
 
     document.querySelectorAll('.toc a').forEach((e) => {
@@ -73,11 +78,11 @@ $(document).ready(() => {
     });
 
     
-    const backupWidth = document.querySelector('.toc').clientWidth;
-    const backupHeight = document.querySelector('.toc').clientHeight;
+    const backupWidth = document.querySelector('.toc')?.clientWidth;
+    const backupHeight = document.querySelector('.toc')?.clientHeight;
     //document.querySelector('.toc').style.height = `${backupHeight}px`; // set first init value explicitly
 
-    document.querySelector('.toc_btn').addEventListener('click', (e) => {
+    document.querySelector('.toc_btn')?.addEventListener('click', (e) => {
         //toc hide and show
         let toc = document.querySelector('.toc').style;
 
